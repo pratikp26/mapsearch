@@ -1,2 +1,2 @@
 # mapsearch
-A search engine with inverted indexing implemented using the map-reduce framework.
+A search engine based on inverted indexing, implemented via the map-reduce framework.
